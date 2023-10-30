@@ -1,4 +1,4 @@
-"# autograms" 
+AUTOGRAMS
 
 Tre differenti modalità di risoluzione
 dei Pangrammi di Lee Sallows
@@ -24,9 +24,4 @@ Python :
 	
 	https://colab.research.google.com/drive/14xKvwrFFzDvmLfeuAqd2RsKog9zuflzP?usp=sharing
 	
-
-
-
-
-
 
