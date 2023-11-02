@@ -31,3 +31,13 @@ C :
 	Roberto
 	
 	https://replit.com/@RobertoAllegra/TestAutogrammi#main.c
+	
+	
+Pascal :
+
+	Copyright © 2010, Gary Darby
+	
+	http://delphiforfun.org/programs/SelfDescribingSentences.htm
+	
+
+	
