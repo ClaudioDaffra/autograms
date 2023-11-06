@@ -1,8 +1,5 @@
-AUTOGRAMS
 
-Tre differenti modalità di risoluzione
-dei Pangrammi di Lee Sallows
-Rust Cpp & Python
+PANGRAMS / AUTOGRAMS
 
 
 Rust :
@@ -11,20 +8,17 @@ Rust :
 
 	https://github.com/jimrybarski/autogram
 
-
 C++ :
 
-	Simone
+	Simone :
 	
 	https://github.com/Beroks/Autograms
 
 Python :
 
-	Roberto
+	Roberto :
 	
 	https://colab.research.google.com/drive/14xKvwrFFzDvmLfeuAqd2RsKog9zuflzP?usp=sharing
-	
-
 
 C :
 
@@ -37,11 +31,11 @@ C :
 	
 	https://github.com/ClaudioDaffra/autograms/tree/main/Aurograms.c/autograms.c.simone
 	
-	Claudio ( numeri romani ) :
+	Claudio :
 	
 	https://github.com/ClaudioDaffra/autograms/tree/main/Aurograms.c/autograms.c.NumRomani
 	
-	Commodore 64
+	Commodore 64 :
 
 	https://github.com/ClaudioDaffra/autograms/tree/main/Aurograms.c
 
