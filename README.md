@@ -28,16 +28,33 @@ Python :
 
 C :
 
-	Roberto
+	Roberto :
 	
 	https://replit.com/@RobertoAllegra/TestAutogrammi#main.c
 	
+
+	Simone :
+	
+	https://github.com/ClaudioDaffra/autograms/tree/main/Aurograms.c/autograms.c.simone
+	
+	Claudio ( numeri romani ) :
+	
+	https://github.com/ClaudioDaffra/autograms/tree/main/Aurograms.c/autograms.c.NumRomani
+	
+	Commodore 64
+
+	https://github.com/ClaudioDaffra/autograms/tree/main/Aurograms.c
+
 	
 Pascal :
 
 	Copyright © 2010, Gary Darby
 	
 	http://delphiforfun.org/programs/SelfDescribingSentences.htm
+	
+	
+
+	
 	
 
 	
